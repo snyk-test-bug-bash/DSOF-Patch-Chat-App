@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "webstomp-client": "^1.2.6",
-    "marked": "4.0.10"
+    "marked": "4.3.0"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
